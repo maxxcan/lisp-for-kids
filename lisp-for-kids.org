@@ -1,0 +1,20 @@
+#+title: Lisp for Kids
+#+author: Patricio Martínez
+#+email: maxxcan@disroot.org
+#+date: <2019-04-19 vie>
+
+* Introducción
+
+* Qué es la programación
+
+* Para qué nos puede servir la programación
+
+* Empezando a calcular
+
+* Nuestro primer programa
+
+* Nuestro primer juego
+
+* Haciendo un juego más complejo
+
+* 
